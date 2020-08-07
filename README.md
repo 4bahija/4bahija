@@ -1,5 +1,5 @@
 # Hi there, Bahija Siddiqui here 👋
-<img src="https://drive.google.com/file/d/1XoxZUJtMRLInBZyLZzcTn4hWYBz8lsov/view?usp=sharing" width = “30%” alt=”picture”/>
+
 
 - 🔭 I’m currently a student of final year pesuading computer science engineering.
 - 🌱 I’ve learned data science, machine learning and python.
