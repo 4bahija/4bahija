@@ -1,19 +1,14 @@
 # Hi there, Bahija Siddiqui here 👋
-## I am a final year student of computer science engineering pesuading data science. 
-![GitHub Logo]("E:\my photos\my photos\115APPLE\HQPF3535.JPG")
+![GitHub Logo]("https://drive.google.com/file/d/1XoxZUJtMRLInBZyLZzcTn4hWYBz8lsov/view?usp=sharing")
 Format: ![Alt Text](url)
-## Listed below is the list of my projects:
-*web scraping
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a data science technical writer intern at Geek Glacier.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently a student of final year pesuading computer science engineering.
+- 🌱 I’ve learned data science, machine learning and python.
+- 👯 I’m looking for internship in data science and machine learning.
+- 📫 How to reach me:
+Contact number: 8130494950
+Email address: bahijasiddiqui006@gmail.com
+LinkedIn account:https://www.linkedin.com/in/bahija-siddiqui-973738175/
+Github Profile:https://github.com/4bahija
+- ⚡ Fun fact: The fun fact about it is I like painting and playing different sports.
 
