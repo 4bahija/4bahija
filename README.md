@@ -1,7 +1,10 @@
-### Hi there Bahija Siddiqui here 👋
+# Hi there, Bahija Siddiqui here 👋
+## I am a final year student of computer science engineering pesuading data science. 
+![GitHub Logo]("E:\my photos\my photos\115APPLE\HQPF3535.JPG")
+Format: ![Alt Text](url)
+## Listed below is the list of my projects:
+*web scraping
 
-<!--
-**4bahija/4bahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
