@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there Bahija Siddiqui here 👋
 
 <!--
 **4bahija/4bahija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working as a data science technical writer intern at Geek Glacier.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
